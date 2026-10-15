@@ -16,6 +16,8 @@ Ternary Quantum Systems](https://arxiv.org/pdf/1906.11137.pdf)
 ### Repos
 1. [Stim: A fast stabilizer circuit library](https://github.com/quantumlib/Stim)
 
+2. [QEC Evidence Auditor — Standard Mathematical V1](https://github.com/cxclrfx/QEC-Evidence-Auditor) — Technical showcase of proprietary offline Auditor and Verifier programs for mathematical QEC artifacts, including CSS checks.
+
 ### Videos/Lectures
 1. [Introduction to Topological Order, Demonstration via the Toric Code
 ](https://youtu.be/Rs2NMe4Lsbw)
